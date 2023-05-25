@@ -1,6 +1,1 @@
-# HealthLearning(That's the Expression) This app was made fo ConUhacks2019 Hackathon held in January 2019
-This is an app to help diagnose patients with asperger's syndrome with the help of computer vision.
-Our project is a learning application to help Asperger Syndrome patients by testing them in different situations. 
-It is divided into two parts wherein the 
-first part is for testing a patient's emotions with the random images, and 
-in another part, we are taking one small quiz on fix interval during learning to check its response.
+This app uses computer vision to assist in the diagnosis of asperger's syndrome sufferers. By putting patients with Asperger Syndrome to the test in various contexts, this project is a learning tool to assist them. It is broken down into two sections, the first of which is used to evaluate a patient's emotions using a series of random images, and the second of which involves a brief exam on a fixed interval of learning to gauge the patient's reaction.
